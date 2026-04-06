@@ -8,7 +8,7 @@
 
 ## Objectives
 
-- To analyze overall sales performance across India.
+- To analyze overall sales performance.
 - To identify top-performing product categories and sub-categories.
 - To track sales trends over time.
 - To evaluate state-wise and region-wise performance.
