@@ -6,6 +6,9 @@
 - The dashboard provides insights into sales performance, profitability, and customer behavior across different regions.
 - It helps users analyze category performance, state-wise sales distribution, customer segments, and sales trends through dynamic and interactive visualizations.
 
+## Dashboard Snapshot
+![dashboard_snapo]()
+
 ## Objectives
 
 - To analyze overall sales performance.
@@ -29,5 +32,4 @@
 - Return rate impacts overall profitability.
 
 
-## Dashboard
 
