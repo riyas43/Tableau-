@@ -7,7 +7,7 @@
 - It helps users analyze category performance, state-wise sales distribution, customer segments, and sales trends through dynamic and interactive visualizations.
 
 ## Dashboard Snapshot
-![dashboard_snapo]()
+![dashboard_snapo](https://github.com/riyas43/Tableau-/blob/main/Superstore%20Sales%20Analysis/Superstore_analytics.png)
 
 ## Objectives
 
